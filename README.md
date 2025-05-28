@@ -8,7 +8,7 @@ Bem-vinda(o) ao meu portfólio de projetos em Ciência de Dados! Aqui você enco
 
 ## Sobre mim
 
-Sou Cientista de Dados com mais de 5 anos de experiência, com doutorado pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME/USP). Minhas principais entregas combinam análise de dados, modelagem preditiva e inteligência artificial para gerar impacto real em empresas do setor de saúde e marketing.
+Sou formada em Biologia e iniciei minha carreira em Bioinformática antes de me tornar Cientista de Dados. Atuei em projetos na área da saúde, unindo aprendizado de máquina e IA generativa para impulsionar jornadas médicas e campanhas de marketing. Sou doutora pelo Instituto de Matemática e Estatística da Universidade de São Paulo (USP). Atualmente, atuo como Cientista de Dados no Grupo Fleury.
 
 ---
 
